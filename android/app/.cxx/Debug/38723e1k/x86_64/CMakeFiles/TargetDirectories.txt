@@ -1,0 +1,2 @@
+C:/Users/Avi Sheth/Desktop/MCA/e_book_reader/android/app/.cxx/Debug/38723e1k/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Avi Sheth/Desktop/MCA/e_book_reader/android/app/.cxx/Debug/38723e1k/x86_64/CMakeFiles/rebuild_cache.dir
