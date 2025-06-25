@@ -38,10 +38,14 @@
   => Reading reminders
   => New book releases or recommendations
 
-
+![Screenshot (17)](https://github.com/user-attachments/assets/e36d735c-ab1e-4d05-b9bd-36b3e53d6562)
+![Screenshot (10)](https://github.com/user-attachments/assets/9bbc044c-b622-492b-925e-055336bd438d)
+![Screenshot (11)](https://github.com/user-attachments/assets/ca5f6119-6975-4b6f-9b8a-9344f254dbe3)
+![Screenshot (12)](https://github.com/user-attachments/assets/41695ea7-60bd-4994-bf80-501d677e7d19)
+![Screenshot (15)](https://github.com/user-attachments/assets/be7be680-d676-47ef-b528-07a0c5e196b3)
+![Screenshot (16)](https://github.com/user-attachments/assets/739906c4-94de-44eb-8639-1bc062d461b7)
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
