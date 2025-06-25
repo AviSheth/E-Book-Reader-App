@@ -1,6 +1,41 @@
 # e_book_reader
 
-A new Flutter project.
+1.User Authentication
+   => Sign Up / Login (Email, Google, Apple)
+   => Profile Management
+2.Library/Bookshelf
+   => List of saved/downloaded books
+   => Sorting & filtering (by author, date added, genre, etc.)
+3.eBook Reader UI
+   => Page turn animation
+   => Support for different formats (PDF, EPUB, etc.)
+   => Night mode / Light mode
+4.Search and Navigation
+   => Search within book
+   => Jump to chapter/page
+   => Table of Contents
+
+📝 Advanced Reading Features
+5.Bookmarks
+  => Add/remove bookmarks
+  => Bookmark list for quick navigation
+6.Notes and Highlights
+  => Highlight text
+  => Add personal notes/comments
+  => Continue from last read page
+7.Translation
+  => Translate selected text
+
+👤 Personalization
+8.Themes & Layout Customization
+  => Switch between different UI themes
+  => Import eBooks
+  => From device file system (PDF, EPUB, etc.)
+9.Push Notifications
+  => Reading reminders
+  => New book releases or recommendations
+
+
 
 ## Getting Started
 
